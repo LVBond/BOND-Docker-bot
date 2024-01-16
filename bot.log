@@ -1,0 +1,34 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:root:Пользователь Любовь Бондаренко 778606138 2024-01-16 14:13:06+00:00 отправил сообщение: аа
+INFO:root:Бот вернул сообщение AA пользователю Любовь Бондаренко 778606138 2024-01-16 14:13:06+00:00 с
+INFO:aiogram.event:Update id=686380012 is handled. Duration 499 ms by bot id=6816412335
+INFO:root:Пользователь Любовь Бондаренко 778606138 2024-01-16 14:13:12+00:00 отправил сообщение: привет
+INFO:root:Бот вернул сообщение PRIVET пользователю Любовь Бондаренко 778606138 2024-01-16 14:13:12+00:00 с
+INFO:aiogram.event:Update id=686380013 is handled. Duration 235 ms by bot id=6816412335
+INFO:root:Пользователь Любовь Бондаренко 778606138 2024-01-16 14:14:29+00:00 запустил бота
+INFO:aiogram.event:Update id=686380014 is handled. Duration 310 ms by bot id=6816412335
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:root:Пользователь Любовь Бондаренко 778606138 в 2024-01-16 14:19:57+00:00 запустил бота
+INFO:aiogram.event:Update id=686380015 is handled. Duration 317 ms by bot id=6816412335
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:root:Пользователь Любовь Бондаренко 778606138 в 2024-01-16 14:20:44+00:00 запустил бота
+INFO:aiogram.event:Update id=686380016 is handled. Duration 295 ms by bot id=6816412335
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:root:Пользователь Любовь Бондаренко 778606138 в 2024-01-16 14:24:13+00:00 запустил бота
+INFO:aiogram.event:Update id=686380017 is handled. Duration 390 ms by bot id=6816412335
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @bond_docker_bot id=6816412335 - 'Bond bot'
+INFO:aiogram.dispatcher:Polling stopped
